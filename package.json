@@ -15,7 +15,7 @@
     "express": "4.15.3",
     "express-session": "1.15.3",
     "jade": "1.8.0",
-    "less-middleware": "2.0.0",
+    "less-middleware": "2.2.0",
     "method-override": "2.3.9",
     "moment": "^2.8.4",
     "mongoskin": "1.4.4",
